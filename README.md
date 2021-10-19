@@ -3,12 +3,12 @@
 I'm a frontend developer 👩🏻‍💻, currently looking for a frontend/UX developer position in New York City.
 
 Please feel free to contact me,
+
 https://www.linkedin.com/in/katiehchoi/
+
 hyewonchoi31@gmail.com
 
 <br>
-<br>
-
 
 #### `Education`
 
