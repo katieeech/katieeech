@@ -4,39 +4,39 @@ I'm a frontend developer 👩🏻‍💻, currently looking for a frontend/UX de
 
 Please feel free to contact me,
 
-https://www.linkedin.com/in/katiehchoi/
+- https://www.linkedin.com/in/katiehchoi/
 
-hyewonchoi31@gmail.com
+- hyewonchoi31@gmail.com
 
 <br>
 
-#### `Education`
+#### Education
 
-Flatiron School NYC - Software Engineering (2021)
+- Flatiron School NYC - Software Engineering (2021)
 
-Columbia University - MS Biostatistsics (2019)
+- Columbia University - MS Biostatistsics (2019)
 
-Syracuse University - BA Economics (2016)
+- Syracuse University - BA Economics (2016)
 
-#### `Skills - Development`
+#### Skills - Development
 
-JavaScript, React, Redux, Thunk,
+- JavaScript, React, Redux, Thunk,
 
-Semantic HTML, CSS
+- Semantic HTML, CSS,
 
-Ruby on Rails, PostgreSQL
+- Ruby on Rails, PostgreSQL
 
-#### `Skills - Design`
+#### Skills - Design
 
-Figma
+- Figma
 
-#### `Skills - Data analysis`
+#### Skills - Data analysis
 
-R, SAS
+- R, SAS
 
-#### `Skills - Currently learning`
+#### Skills - Currently learning
 
-React Native, TypeScript, Advanced Figma
+- React Native, TypeScript, Advanced Figma
 
 
 <!--
