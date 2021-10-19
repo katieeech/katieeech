@@ -10,7 +10,7 @@ hyewonchoi31@gmail.com
 <br>
 
 
-`Education`
+#### `Education`
 
 Flatiron School - Software Engineering (2021)
 
@@ -18,7 +18,7 @@ Columbia University - MS Biostatistsics (2019)
 
 Syracuse University - BA Economics (2016)
 
-`Skills - Development`
+#### `Skills - Development`
 
 JavaScript, React, Redux, Thunk,
 
@@ -26,15 +26,15 @@ Semantic HTML, CSS
 
 Ruby on Rails, PostgreSQL
 
-`Skills - Design`
+#### `Skills - Design`
 
 Figma
 
-`Skills - Data analysis`
+#### `Skills - Data analysis`
 
 R, SAS
 
-`Skills - Currently learning`
+##### `Skills - Currently learning`
 
 React Native, TypeScript, Advanced Figma
 
