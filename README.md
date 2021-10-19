@@ -12,7 +12,7 @@ hyewonchoi31@gmail.com
 
 #### `Education`
 
-Flatiron School - Software Engineering (2021)
+Flatiron School NYC - Software Engineering (2021)
 
 Columbia University - MS Biostatistsics (2019)
 
