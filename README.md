@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hello! I'm a frontend developer 👩🏻‍💻!
+Currently looking for a frontend/UX developer position in New York City.
+Studied software engineering at Flatiron School NYC.
+Please feel free to contact me,
+
+https://www.linkedin.com/in/katiehchoi/
+hyewonchoi31@gmail.com
 <!--
 **katiehyewonchoi/katiehyewonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
