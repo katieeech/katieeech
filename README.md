@@ -34,7 +34,7 @@ Figma
 
 R, SAS
 
-##### `Skills - Currently learning`
+#### `Skills - Currently learning`
 
 React Native, TypeScript, Advanced Figma
 
