@@ -2,12 +2,6 @@
 
 I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunity in New York City.
 
-Please feel free to contact me,
-
-- https://www.linkedin.com/in/katiehchoi/
-- hyewonchoi31@gmail.com
-
-<br>
 
 #### Education
 - Flatiron School NYC - Software Engineering (2021)
@@ -23,7 +17,10 @@ Please feel free to contact me,
 - R, SAS
 #### Skills - Currently learning
 - React Native, TypeScript, Advanced Figma
-
+<br>
+Please feel free to contact me,
+- https://www.linkedin.com/in/katiehchoi/
+- hyewonchoi31@gmail.com
 
 <!--
 **katiehyewonchoi/katiehyewonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
