@@ -7,15 +7,15 @@ I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunit
 - Flatiron School NYC - Software Engineering (2021)
 - Columbia University - MS Biostatistsics (2019)
 - Syracuse University - BA Economics (2016)
-#### Skills - Development
+#### Development
 - JavaScript, React, Redux, Thunk,
 - Semantic HTML, CSS,
 - Ruby on Rails, PostgreSQL
-#### Skills - Design
+#### Design
 - Figma
-#### Skills - Data analysis
+#### Data analysis
 - R, SAS
-#### Skills - Currently learning
+#### Currently learning
 - React Native, TypeScript, Advanced Figma
 
 <br>
