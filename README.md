@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there!
 
 I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunity in New York City.
 
