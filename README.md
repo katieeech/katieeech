@@ -5,37 +5,23 @@ I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunit
 Please feel free to contact me,
 
 - https://www.linkedin.com/in/katiehchoi/
-
 - hyewonchoi31@gmail.com
 
 <br>
 
 #### Education
-
 - Flatiron School NYC - Software Engineering (2021)
-
 - Columbia University - MS Biostatistsics (2019)
-
 - Syracuse University - BA Economics (2016)
-
 #### Skills - Development
-
 - JavaScript, React, Redux, Thunk,
-
 - Semantic HTML, CSS,
-
 - Ruby on Rails, PostgreSQL
-
 #### Skills - Design
-
 - Figma
-
 #### Skills - Data analysis
-
 - R, SAS
-
 #### Skills - Currently learning
-
 - React Native, TypeScript, Advanced Figma
 
 
