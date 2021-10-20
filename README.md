@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a frontend developer 👩🏻‍💻, currently looking for a frontend/UX developer position in New York City.
+I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunity in New York City.
 
 Please feel free to contact me,
 
