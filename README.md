@@ -6,7 +6,6 @@ I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunit
 #### Education
 - Flatiron School NYC - Software Engineering (2021)
 - Columbia University - MS Biostatistsics (2019)
-- Syracuse University - BA Economics (2016)
 #### Development
 - JavaScript, React, Redux, Thunk,
 - Semantic HTML, CSS,
