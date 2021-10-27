@@ -2,7 +2,7 @@
 
 I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunity in New York City.
 <br>
-<br>
+
 #### Education
 - Flatiron School NYC - Software Engineering (2021)
 - Columbia University - MS Biostatistsics (2019)
@@ -14,9 +14,7 @@ I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunit
 - Figma
 #### Currently learning
 - React Native, TypeScript, Advanced Figma
-
 <br>
-
 Please feel free to contact me,
 - https://www.linkedin.com/in/katiehchoi/
 - hyewonchoi31@gmail.com
