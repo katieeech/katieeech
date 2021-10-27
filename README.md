@@ -12,8 +12,6 @@ I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunit
 - Ruby on Rails, PostgreSQL
 #### Design
 - Figma
-#### Data analysis
-- R, SAS
 #### Currently learning
 - React Native, TypeScript, Advanced Figma
 
