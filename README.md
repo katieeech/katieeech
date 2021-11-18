@@ -1,6 +1,6 @@
-### Hello there!
+### Welcome!
 
-I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunity.
+I'm a frontend developer 👩🏻‍💻 currently looking for a new opportunity.
 <br>
 
 #### Education
