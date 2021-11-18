@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunity in New York City.
+I'm a frontend developer 👩🏻‍💻, currently looking for a new opportunity.
 <br>
 
 #### Education
