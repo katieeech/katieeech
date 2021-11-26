@@ -12,7 +12,7 @@ I'm a frontend developer 👩🏻‍💻 currently looking for a new opportunity
 - Ruby on Rails, PostgreSQL
 - Figma
 #### Currently learning
-- React Native, TypeScript, Advanced Figma
+- React Native, Figma
 <br>
 Please feel free to contact me,
 - https://www.linkedin.com/in/katiehchoi/
