@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm a frontend developer, who loves to design and code, 👩🏻‍💻 currently looking for a new opportunity.
+I'm a frontend developer, who loves to design and code,currently looking for a new opportunity! 👩🏻‍💻 
 <br>
 
 #### Education
