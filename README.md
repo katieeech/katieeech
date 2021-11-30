@@ -6,12 +6,12 @@ I'm a frontend developer, who loves to design and code, currently looking for a 
 #### Education
 - Flatiron School NYC - Software Engineering (2021)
 - Columbia University - MS Biostatistsics (2019)
-#### Development & Design
+#### Development & Design 🌱 
 - JavaScript, React, Redux, Thunk,
 - Semantic HTML, CSS,
 - Ruby on Rails, PostgreSQL
 - Figma
-#### Currently learning
+#### Currently learning 🌱 
 - React Native, Figma for UX/UI Design 🎨
 <br>
 Please feel free to contact me,
