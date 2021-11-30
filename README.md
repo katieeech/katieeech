@@ -12,7 +12,7 @@ I'm a frontend developer, who loves to design and code, currently looking for a 
 - Ruby on Rails, PostgreSQL
 - Figma
 #### Currently learning
-- React Native, Figma 🎨, UX/UI Design
+- React Native, Figma for UX/UI Design
 <br>
 Please feel free to contact me,
 - https://www.linkedin.com/in/katiehchoi/
