@@ -16,6 +16,8 @@ I'm a frontend developer, who loves to design and code, currently looking for a 
 Please feel free to contact me,
 - https://www.linkedin.com/in/katiehchoi/
 - hyewonchoi31@gmail.com
+<br>
+https://www.katiehyewonchoi.com
 
 <!--
 **katiehyewonchoi/katiehyewonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
