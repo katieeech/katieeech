@@ -1,17 +1,18 @@
 ### Welcome!
 
-I'm a frontend developer, who loves to design and code, currently looking for a new opportunity! 👩🏻‍💻 
+I'm a frontend developer, who loves to design and code, currently working in Seoul, Korea 👩🏻‍💻 
 <br>
 
 #### Education
 - Flatiron School NYC - Software Engineering (2021)
 - Columbia University - MS Biostatistsics (2019)
 #### Development & Design 🌱 
-- JavaScript, React (Redux)
+- JavaScript, TypeScript
+- React (Redux), React Native
 - Ruby on Rails, PostgreSQL
 - Semantic HTML, CSS, Figma
 #### Currently learning 🌱 
-- React Native, Figma for UX/UI Design 🎨
+- React Native, TypeScript, and Figma for UX/UI Design 🎨
 <br>
 Please feel free to contact me,
 - https://www.linkedin.com/in/katiehchoi/
