@@ -9,12 +9,11 @@ I'm a frontend developer, who loves to design and code, currently working @29lab
 - Ruby on Rails, PostgreSQL
 - Semantic HTML, CSS, Figma
 
+#### Contact Info
+hyewonchoi31@gmail.com
 <br>
-Please feel free to contact me,
-- https://www.linkedin.com/in/katiehchoi/
-- hyewonchoi31@gmail.com
+https://www.linkedin.com/in/katiehchoi/
 <br>
-https://www.katiehyewonchoi.com
 
 <!--
 **katiehyewonchoi/katiehyewonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
