@@ -1,6 +1,6 @@
 ### Welcome!
 
-I'm a frontend developer, who loves to design and code, currently working @29labs in Seoul, Korea 👩🏻‍💻 
+I'm a frontend developer, who loves to design and code, currently working @29labs 👩🏻‍💻 in Seoul, Korea
 <br>
 
 #### Development & Design 🌱 
