@@ -3,11 +3,11 @@
 I'm a frontend developer, who loves to design and code, currently working @29labs 👩🏻‍💻　in Seoul, Korea
 <br>
 
-#### Development & Design 🌱 
+#### Development & Design Skills 🌱  
 - JavaScript, TypeScript
 - React, React Native, Redux
 - Ruby on Rails
-- Semantic HTML, CSS, Figma
+- Semantic HTML, CSS, Figma 🎨
 
 #### Contact Info
 hyewonchoi31@gmail.com
