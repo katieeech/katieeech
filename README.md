@@ -14,11 +14,11 @@
 - HTML/CSS, Figma
 
 #### Education
-Flatiron School - Software Engineering 풀스택
+ㅤㅤFlatiron School NYCㅤ|ㅤSoftware Engineering
 <br>
-Columbia University M.S Biostatistics 의학통계학 석사
+ㅤㅤColumbia Universityㅤ|ㅤM.S Biostatistics 의학통계학 석사
 <br>
-Syracuse University B.A Economics 경제학
+ㅤㅤSyracuse Universityㅤ|ㅤB.A Economics 경제학
 
 #### About Me
 
