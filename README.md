@@ -2,6 +2,10 @@
 
 #### 🌱 비즈니스 성장을 위한 웹/앱 개발과 사용자 인터랙션을 구현해내는 많은 영역에 도전합니다
 
+<br>
+
+#### Current Work
+프론트엔드 개발 인턴 (React Native) @29Labs 
 
 #### Development & Design Skills  
 - JavaScript, TypeScript
@@ -9,6 +13,12 @@
 - Ruby on Rails
 - HTML/CSS, Figma
 
+#### Education
+Flatiron School - Software Engineering 풀스택
+<br>
+Columbia University M.S Biostatistics 의학통계학 석사
+<br>
+Syracuse University B.A Economics 경제학
 
 #### About Me
 
