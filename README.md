@@ -23,6 +23,7 @@
 <br>
 ㅤㅤSyracuse Universityㅤ|ㅤB.A Economics 경제학
 <br>
+<br>
 ![](https://komarev.com/ghpvc/?username=katieeech)
 
 
