@@ -21,11 +21,11 @@
 ㅤㅤSyracuse Universityㅤ|ㅤB.A Economics 경제학
 
 #### About Me
-
+[포트폴리오](https://frontendhyeni.tistory.com/2) 
 [국문이력서](https://hyewonchoi.notion.site/44ac003d3beb4c00b494de8144a69f2c) |
 [LinkedIn](https://www.linkedin.com/in/katiehchoi/) |
-[포트폴리오](https://frontendhyeni.tistory.com/2) 
 
+![001](https://user-images.githubusercontent.com/33072677/158925611-f6a6ce92-a1ad-4a60-8efb-d5b17d694d16.png)
 
 ![](https://komarev.com/ghpvc/?username=katieeech)
 
