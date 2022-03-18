@@ -1,9 +1,12 @@
 ## 프론트엔드 개발자 최혜원입니다 👩🏻‍💻
-
 #### 🌱 비즈니스 성장을 위한 웹/앱 개발과 사용자 인터랙션을 구현해내는 많은 영역에 도전합니다
-
+![001](https://user-images.githubusercontent.com/33072677/158925611-f6a6ce92-a1ad-4a60-8efb-d5b17d694d16.png)
 <br>
-
+<br>
+[포트폴리오](https://frontendhyeni.tistory.com/2) |
+[국문이력서](https://hyewonchoi.notion.site/44ac003d3beb4c00b494de8144a69f2c) |
+[LinkedIn](https://www.linkedin.com/in/katiehchoi/) |
+<br>
 #### Current Work
 프론트엔드 개발 인턴 (React Native) @29Labs 
 
@@ -19,15 +22,10 @@
 ㅤㅤColumbia Universityㅤ|ㅤM.S Biostatistics 의학통계학 석사
 <br>
 ㅤㅤSyracuse Universityㅤ|ㅤB.A Economics 경제학
-
-#### About Me
-[포트폴리오](https://frontendhyeni.tistory.com/2) |
-[국문이력서](https://hyewonchoi.notion.site/44ac003d3beb4c00b494de8144a69f2c) |
-[LinkedIn](https://www.linkedin.com/in/katiehchoi/) |
-
-![001](https://user-images.githubusercontent.com/33072677/158925611-f6a6ce92-a1ad-4a60-8efb-d5b17d694d16.png)
-
+<br>
 ![](https://komarev.com/ghpvc/?username=katieeech)
+
+
 
 <!--
 **katiehyewonchoi/katiehyewonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
