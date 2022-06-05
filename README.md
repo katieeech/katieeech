@@ -1,13 +1,8 @@
-## 프론트엔드 개발자 최혜원입니다 👩🏻‍💻
+## Hello, 
+### This is Hyewon Choi 👩🏻‍💻
 
 #### Current Work
-Frontend Developer at [BeautySelection](https://www.beautyselection.co.kr/)
-
-#### Development & Design Skills  
-- JavaScript, TypeScript
-- React, React Native
-- Ruby on Rails
-- HTML/CSS, Figma
+Frontend Developer at [BeautySelection](https://www.beautyselection.co.kr/) in Seoul, Korea
 
 
 ![](https://komarev.com/ghpvc/?username=katieeech)<br>
